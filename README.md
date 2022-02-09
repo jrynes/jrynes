@@ -9,7 +9,7 @@
 * **Mapping speech transmission index (STI) and background noise in university classrooms | June 2017**
   * *Presented to the 173rd meeting of the Acoustical Society of America. Boston, June 2017 (Invited Paper)*
 * **Subjective perception and preference of simulated sound fields | June 2017**
-  * *Presented to the 173rd meeting of the Acoustical Society of America. Boston, June 2017 (Invited Paper) *
+  * *Presented to the 173rd meeting of the Acoustical Society of America. Boston, June 2017 (Invited Paper)*
 
 - - - - 
 
