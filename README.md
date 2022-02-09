@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+### About Me
+
+* Licensed Architect
+* Developer with an interest in:
+  * Automation
+  * Web Scraping
+  * Data 
+
+
 - - - - 
 
 ### Presentations
@@ -15,8 +24,8 @@
     src="https://img.shields.io/badge/<YouTube Link>-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"
   />
 </a>
- </UL>
-  </UL>
+</UL>
+</UL>
 
 * **Mapping speech transmission index (STI) and background noise in university classrooms | June 2017**
   * *Presented to the 173rd meeting of the Acoustical Society of America. Boston, June 2017 (Invited Paper)*
@@ -25,13 +34,15 @@
 
 - - - - 
 
-### Social Media
+### Connect
 <a href="https://www.linkedin.com/in/jrynes/">
   <img
     alt="LinkedIn"
     src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"
   />
 </a>
+ 
+![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
 
 - - - -
 
@@ -39,9 +50,6 @@
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 
-
-
-![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
 
 - - - -
 
