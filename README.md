@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+- - - - 
 
 ### Presentations
 
@@ -9,7 +10,7 @@
   * Presented to the 173rd meeting of the Acoustical Society of America. Boston, June 2017 (Invited Paper)
 * Subjective perception and preference of simulated sound fields
   * Presented to the 173rd meeting of the Acoustical Society of America. Boston, June 2017 (Invited Paper) 
-
+- - - - 
 ### Social Media
 <a href="https://www.linkedin.com/in/jrynes/">
   <img
@@ -17,12 +18,15 @@
     src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"
   />
 </a>
-
+- - - -
+### Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 
 
 ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
+
+- - - -
 
 ### Graphics
 
