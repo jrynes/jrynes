@@ -4,13 +4,15 @@
 
 ### Presentations
 
-* Dynamo, Python, and Git - A Tale of Two Weeks | Spring 2020
+* **Dynamo, Python, and Git - A Tale of Two Weeks | Spring 2020**
   * Collaborating through GitLab across Virginia, teams from the Roanoke and Arlington offices of AECOM developed a solution to update furniture family parameters. A handful of hours of coding collaboration saved two team members from manually updating parameters for two weeks each, and pushed some unique ideas about IronPython GUI elements in a Dynamo script.
-* Mapping speech transmission index (STI) and background noise in university classrooms
-  * Presented to the 173rd meeting of the Acoustical Society of America. Boston, June 2017 (Invited Paper)
-* Subjective perception and preference of simulated sound fields
-  * Presented to the 173rd meeting of the Acoustical Society of America. Boston, June 2017 (Invited Paper) 
+* **Mapping speech transmission index (STI) and background noise in university classrooms | June 2017**
+  * *Presented to the 173rd meeting of the Acoustical Society of America. Boston, June 2017 (Invited Paper)*
+* **Subjective perception and preference of simulated sound fields | June 2017**
+  * *Presented to the 173rd meeting of the Acoustical Society of America. Boston, June 2017 (Invited Paper) *
+
 - - - - 
+
 ### Social Media
 <a href="https://www.linkedin.com/in/jrynes/">
   <img
@@ -18,8 +20,11 @@
     src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"
   />
 </a>
+
 - - - -
+
 ### Languages
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 
