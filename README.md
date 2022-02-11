@@ -9,6 +9,8 @@
   * Data 
 
 
+[![Jeff's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jrynesn&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+
 - - - - 
 
 ### Presentations
