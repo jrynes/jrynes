@@ -9,7 +9,7 @@
   * Data 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jrynes&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jrynes&theme=tokyonight&exclude_repo=Sound_Level_Meter_App)
 
 - - - - 
 
