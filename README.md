@@ -1,7 +1,4 @@
-### Hi there 👋
-
-### About Me
-
+### About
 
 ### Languages
 
@@ -11,9 +8,25 @@
 
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-000?style=for-the-badge&logo=Docker)
 
+### Graphics
+
+![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white) ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=white)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jrynes&theme=tokyonight&exclude_repo=Sound_Level_Meter_App)
 
 - - - - 
+
+### Connect
+<a href="https://www.linkedin.com/in/jrynes/">
+  <img
+    alt="LinkedIn"
+    src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"
+  />
+</a>
+ 
+![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
+
+- - - -
 
 ### Presentations
 
@@ -36,27 +49,9 @@
 * **Subjective perception and preference of simulated sound fields | June 2017**
   * *Presented to the 173rd meeting of the Acoustical Society of America. Boston, June 2017 (Invited Paper)*
 
-- - - - 
-
-### Connect
-<a href="https://www.linkedin.com/in/jrynes/">
-  <img
-    alt="LinkedIn"
-    src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"
-  />
-</a>
- 
-![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
-
 - - - -
 
 
-
-- - - -
-
-### Graphics
-
-![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white) ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=white)
 
 
 
