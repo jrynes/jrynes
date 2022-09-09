@@ -16,7 +16,14 @@ Passionate about software development, writing code, and making things happen
 
 <br><br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jrynes&theme=tokyonight&exclude_repo=Sound_Level_Meter_App)
+<a href="https://github.com/jrynes/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jrynes&theme=dark&exclude_repo=Sound_Level_Meter_App&&langs_count=10&&layout=compact" />
+</a>
+<a href="https://github.com/jrynes/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jrynes&show_icons=true&count_private=true&hide=stars&theme=dark&include_all_commits=true&custom_title=Stats" />
+</a>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jrynes&theme=tokyonight&exclude_repo=Sound_Level_Meter_App&&langs_count=10&&layout=compact) ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=jrynes&show_icons=true&count_private=true&hide=stars&theme=cobalt&include_all_commits=true&custom_title=Stats)
 
 - - - - 
 
