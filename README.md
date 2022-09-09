@@ -39,7 +39,7 @@ Passionate about software development, writing code, and making things happen
 <a href="https://stackoverflow.com/">
   <img
     alt="Stack Overflow"
-    src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"
+    src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"
   />
 </a>
 
