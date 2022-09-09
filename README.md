@@ -14,10 +14,10 @@ Passionate about software development, writing code, and making things happen
 
 ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white) ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=white)
 
-<br><br>
+<br>
 
 <a href="https://github.com/jrynes/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jrynes&theme=dark&exclude_repo=Sound_Level_Meter_App&&langs_count=10&&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jrynes&theme=dark&exclude_repo=Sound_Level_Meter_App&&langs_count=8&&layout=compact" />
 </a>
 <a href="https://github.com/jrynes/">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jrynes&show_icons=true&count_private=true&hide=stars,issues&theme=dark&include_all_commits=true&custom_title=Stats" />
@@ -36,9 +36,16 @@ Passionate about software development, writing code, and making things happen
     src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"
   />
 </a>
- 
-![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
+<a href="https://stackoverflow.com/">
+  <img
+    alt="Stack Overflow"
+    src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"
+  />
+</a>
 
+<!--
+![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
+-->
 - - - -
 
 ### Presentations
