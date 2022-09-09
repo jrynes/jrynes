@@ -20,7 +20,7 @@ Passionate about software development, writing code, and making things happen
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jrynes&theme=dark&exclude_repo=Sound_Level_Meter_App&&langs_count=8&&layout=compact" />
 </a>
 <a href="https://github.com/jrynes/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jrynes&show_icons=true&count_private=true&hide=stars,issues&theme=dark&include_all_commits=true&custom_title=Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jrynes&show_icons=true&count_private=true&hide=stars,issues&hide_rank=true&theme=dark&include_all_commits=true&custom_title=Stats" />
 </a>
 
 <!-- 
