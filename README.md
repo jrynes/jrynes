@@ -16,14 +16,14 @@
 ### Presentations
 
 <UL>
-<LI>Dynamo, Python, and Git - A Tale of Two Weeks | Spring 2020
+<LI>*Dynamo, Python, and Git - A Tale of Two Weeks | Spring 2020*
 <UL>
  <LI>Collaborating through GitLab across Virginia, teams from the Roanoke and Arlington offices of AECOM developed a solution to update furniture family parameters. A handful of hours of coding collaboration saved two team members from manually updating parameters for two weeks each, and pushed some unique ideas about IronPython GUI elements in a Dynamo script.
 <LI>
  <a href="https://youtu.be/17EFrg72zNg">
   <img
     alt="YouTube"
-    src="https://img.shields.io/badge/<YouTube Link>-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"
+    src="https://img.shields.io/badge/YouTube Link-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"
   />
 </a>
 </UL>
