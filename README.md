@@ -1,4 +1,4 @@
-### About
+## About
 
 Passionate about software development, writing code, and making things happen
 
@@ -28,7 +28,7 @@ Passionate about software development, writing code, and making things happen
 -->
 - - - - 
 
-### Connect
+## Connect
 
 <a href="https://www.linkedin.com/in/jrynes/">
   <img
@@ -48,7 +48,7 @@ Passionate about software development, writing code, and making things happen
 -->
 - - - -
 
-### Presentations
+## Presentations
 
 <details>
   <summary>Show More</summary>
