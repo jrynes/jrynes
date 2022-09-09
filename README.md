@@ -17,6 +17,7 @@
 - - - - 
 
 ### Connect
+
 <a href="https://www.linkedin.com/in/jrynes/">
   <img
     alt="LinkedIn"
