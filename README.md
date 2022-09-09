@@ -6,7 +6,7 @@ Passionate about software development, writing code, and making things happen
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-black?style=for-the-badge&logo=postgresql&logoColor=blue)
 
-### Technologies | Tools
+### Technologies  |  Tools
 
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-000?style=for-the-badge&logo=Docker) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=for-the-badge&logo=bootstrap&logoColor=563D7C) 
 
@@ -50,6 +50,9 @@ Passionate about software development, writing code, and making things happen
 
 ### Presentations
 
+<details>
+  <summary>Show More</summary>
+
 <UL>
  <LI><b>Dynamo, Python, and Git - A Tale of Two Weeks | Spring 2020</b>
 <UL>
@@ -69,6 +72,9 @@ Passionate about software development, writing code, and making things happen
 * **Subjective perception and preference of simulated sound fields | June 2017**
   * *Presented to the 173rd meeting of the Acoustical Society of America. Boston, June 2017 (Invited Paper)*
 
+  
+</details>
+   
 - - - -
 
 
